@@ -35,9 +35,9 @@ public class First
 	        System.out.println("Key 14's position: ");
 	        mbs.binarySearch(arr, 10);
 	        int[] arr1 = {6,34,78,123,432,900};
-	        System.out.println("Key 432's position: "+mbs.binarySearch(arr1, 432));		
+	        System.out.print("Key 432's position: "+mbs.binarySearch(arr1, 432));		
 
-		
+		 System.out.println("naveen");
 		
 		
 	}
