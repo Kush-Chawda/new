@@ -4,7 +4,7 @@ public class CheckString {
 	
 	public static void main(String[] args) {
 		
-		
+		System.out.println("hira lala");
 		String s=new String("asas");
 		
 		System.out.println(s);
